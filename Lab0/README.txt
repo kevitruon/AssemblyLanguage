@@ -1,0 +1,1 @@
+I, Kevin Truong, have read and understood the Spring CSE12 syllabus and Personal Responsibility Document. ktruon13 7 April 2021

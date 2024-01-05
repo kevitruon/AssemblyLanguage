@@ -1,0 +1,1 @@
+I, Kevin Truong(ktruon13), made this mml circuit that shows all the outputs of the registers/ALU/keypad/ALUinputs and the implemented ALU will bitwise left shift ALU input 1 by the number ALU input 2
